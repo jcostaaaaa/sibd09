@@ -19,9 +19,9 @@ Cliente (Nome (Primeiro e Ultimo), número do CC, carta de condução, email, n�
 
 Associações:
 
-Pertence (empregado, departamento) N:1
+Pertence (Funcionario, departamento) N:1
 
-TrabalhaNuma (empregado, filial) N:1
+TrabalhaNuma (Funcionario, filial) N:1
 
 
 
